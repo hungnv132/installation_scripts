@@ -1,4 +1,5 @@
 *.deb
 *.tar
 *.tar.gz
+*.gpg
 
