@@ -1,3 +1,3 @@
 sudo apt-get update
-sudo apt-get install -y build-essential vim git curl htop net-tools
+sudo apt-get install -y build-essential vim git curl htop net-tools unrar 
 
